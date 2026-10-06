@@ -1,0 +1,104 @@
+export const customerReviews = [
+  {
+    "quote": "I would recommend SharePal for anybody looking to rent trekking gears, on time delivery, condition of products delivered were very good, super transparent deposit return policy.",
+    "initials": "SB",
+    "name": "Satyaki",
+    "city": "Kolkata",
+    "category": "Trekking Gear",
+    "rating": 5,
+    "verified": true,
+    "id": 1
+  },
+  {
+    "quote": "Have used their services twice now. They never disappoint. Quick responses, polite, transparent, hassle free, great products as well. Rented trekking gear and PS4. Thanks Sharepal! Cheers to you guys!",
+    "initials": "AS",
+    "name": "Afrana",
+    "city": "Bangalore",
+    "category": "Gaming Console",
+    "rating": 5,
+    "verified": true,
+    "id": 2
+  },
+  {
+    "quote": "It\u2019s an amazing service, starting from the quality of the gear provided to the pickup and drop at doorstep facility. The staff is extremely helpful and supportive. The jacket was freshly washed and the shoes provided were brand new. The refund for the deposit was also processed immediately. We had no clue that this kind of service existed in India, SharePal.",
+    "initials": "KK",
+    "name": "Kanthikiran",
+    "city": "Bangalore",
+    "category": "Riding Gear",
+    "rating": 5,
+    "verified": true,
+    "id": 3
+  },
+  {
+    "quote": "I am a regular customer and order ps4\nIt\u2019s very affordable and booking an order is super easy and user friendly website and polite staff.",
+    "initials": "AA",
+    "name": "Amal",
+    "city": "Bangalore",
+    "category": "Gaming Console",
+    "rating": 5,
+    "verified": true,
+    "id": 4
+  },
+  {
+    "quote": "The experience with share pal is awesome . The camera , service provide by them is good. Overall I am Happy by renting camera gear from share pal. Next time I will rent the gears from share pal only. Must recommend to everyone",
+    "initials": "PS",
+    "name": "Pankaj",
+    "city": "Mumbai",
+    "category": "Action Cameras",
+    "rating": 5,
+    "verified": true,
+    "id": 5
+  },
+  {
+    "quote": "Great company amazing products at affordable prices and great service I would recommend share pal to everybody they really go out of the way for the best service I surely know I will be their forever customer.",
+    "initials": "JS",
+    "name": "Jayaraman",
+    "city": "Mumbai",
+    "category": "Riding Gear",
+    "rating": 5,
+    "verified": true,
+    "id": 6
+  },
+  {
+    "quote": "I like the way sharepal work and really enjoyed the ps4 will order again. Thanks sharepal",
+    "initials": "MM",
+    "name": "Manish",
+    "city": "Mumbai",
+    "category": "Gaming console",
+    "rating": 5,
+    "verified": true,
+    "id": 7
+  },
+  {
+    "quote": "Ordered 2 pair of shoes &amp; 3 trekking poles. Shoes were in mint condition, very well cleaned and sanitized and so does the trekking poles. Delivery and pick-up was smooth. Refund was done within the time frame. If you have UPI it will be transferred immediately. I overall had a very good experience with Sharepal. Have recommended to my family and friends as well. Thank you Sharepal.",
+    "initials": "RS",
+    "name": "Rakesh",
+    "city": "Mumbai",
+    "category": "Trekking Gear",
+    "rating": 5,
+    "verified": true,
+    "id": 8
+  },
+  {
+    "quote": "Right from the time I saw their website, till i got my refund the entire experience with SharePal was brilliant. The product listing, prices, delivery, communication, return. Everything was spot on. Product quality was brilliant. The way the team solves your issues is so rare to find in today\u2019s times.. I dont think I am gonna look at any other place for my travel needs.",
+    "initials": "SJ",
+    "name": "Shruti",
+    "city": "Mumbai",
+    "category": "Winter Wear",
+    "rating": 5,
+    "verified": true,
+    "id": 9
+  },
+  {
+    "quote": "Awesome experience. Please be the way you are. Received excellent clothes and shoes in washed and clean state. They looked like new ones. Received hasslefree refund.",
+    "initials": "AK",
+    "name": "Amit",
+    "city": "Delhi",
+    "category": "Riding Gear",
+    "rating": 5,
+    "verified": true,
+    "id": 10
+  }
+];
+
+export default customerReviews;
